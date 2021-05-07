@@ -1,11 +1,6 @@
-<p align="center">
-    <img src=".github/logo-chef.png">
-</p>
+Status: Em desenvolvimento!!!
 
-# foodfy
-Aplicativo MVC para explorar, gerenciar receitas e chefs - construído com Express, Nunjucks e Postgres
-
-Leve suas habilidade de culinária para outro nivel. Explore suas habilidades.
+# Página de Serviços
 
 <br />
-<p align="center"><img src=".github/home.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/14830626/117386760-d0333180-aebd-11eb-9e49-cc5c6df5226c.gif"></p>
